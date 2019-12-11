@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.8)  10 DEC 2019 19:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.8)  10 DEC 2019 23:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -826,81 +826,81 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-09.
+74.
 (/Users/ashwinimarathe/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-09.
+74.
 (/Users/ashwinimarathe/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-109.
+174.
 (/Users/ashwinimarathe/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-109.
+174.
 (/Users/ashwinimarathe/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 109.
+(Font)              <10> on input line 174.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 109.
+(Font)              <7> on input line 174.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 109.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 109
+(Font)              <5> on input line 174.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 174
 .
 (/Users/ashwinimarathe/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 109
+LaTeX Font Info:    Trying to load font information for U+msb on input line 174
 .
 (/Users/ashwinimarathe/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
+19.
+(/Users/ashwinimarathe/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [1
 
 {/Users/ashwinimarathe/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex
 .map}]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
-21.
-(/Users/ashwinimarathe/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
 <FinalReport_files/figure-latex/unnamed-chunk-4-1.pdf, id=64, 469.755pt x 216.8
 1pt>
 File: FinalReport_files/figure-latex/unnamed-chunk-4-1.pdf Graphic file (type p
 df)
 <use FinalReport_files/figure-latex/unnamed-chunk-4-1.pdf>
 Package pdftex.def Info: FinalReport_files/figure-latex/unnamed-chunk-4-1.pdf  
-used on input line 268.
+used on input line 266.
 (pdftex.def)             Requested size: 500.48253pt x 230.99193pt.
 [2pdfTeX warning (ext4): destination with the same identifier (name{table.1}) h
 as been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.268 ...ure-latex/unnamed-chunk-4-1} \end{center}
+l.266 ...ure-latex/unnamed-chunk-4-1} \end{center}
                                                   ]
-<FinalReport_files/figure-latex/unnamed-chunk-5-1.pdf, id=73, 469.755pt x 216.8
+<FinalReport_files/figure-latex/unnamed-chunk-5-1.pdf, id=72, 469.755pt x 216.8
 1pt>
 File: FinalReport_files/figure-latex/unnamed-chunk-5-1.pdf Graphic file (type p
 df)
 <use FinalReport_files/figure-latex/unnamed-chunk-5-1.pdf>
 Package pdftex.def Info: FinalReport_files/figure-latex/unnamed-chunk-5-1.pdf  
-used on input line 285.
+used on input line 283.
 (pdftex.def)             Requested size: 500.48253pt x 230.99193pt.
 [3 <./FinalReport_files/figure-latex/unnamed-chunk-4-1.pdf> <./FinalReport_file
 s/figure-latex/unnamed-chunk-5-1.pdf>]
-<FinalReport_files/figure-latex/unnamed-chunk-8-1.pdf, id=94, 469.755pt x 216.8
+<FinalReport_files/figure-latex/unnamed-chunk-8-1.pdf, id=93, 469.755pt x 216.8
 1pt>
 File: FinalReport_files/figure-latex/unnamed-chunk-8-1.pdf Graphic file (type p
 df)
 <use FinalReport_files/figure-latex/unnamed-chunk-8-1.pdf>
 Package pdftex.def Info: FinalReport_files/figure-latex/unnamed-chunk-8-1.pdf  
-used on input line 336.
+used on input line 334.
 (pdftex.def)             Requested size: 500.48253pt x 230.99193pt.
 [4 <./FinalReport_files/figure-latex/unnamed-chunk-8-1.pdf>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 449.
@@ -935,7 +935,7 @@ Here is how much of TeX's memory you used:
  16317 multiletter control sequences out of 15000+600000
  40651 words of font info for 40 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 39i,11n,37p,274b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,11n,37p,250b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/ashwinimarathe/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.en
 c}{/Users/ashwinimarathe/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-maths
 y.enc}{/Users/ashwinimarathe/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-m
@@ -950,7 +950,7 @@ ts/type1/public/lm/lmr17.pfb></Users/ashwinimarathe/Library/TinyTeX/texmf-dist/
 fonts/type1/public/lm/lmri10.pfb></Users/ashwinimarathe/Library/TinyTeX/texmf-d
 ist/fonts/type1/public/lm/lmri12.pfb></Users/ashwinimarathe/Library/TinyTeX/tex
 mf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on FinalReport.pdf (5 pages, 683738 bytes).
+Output written on FinalReport.pdf (5 pages, 686217 bytes).
 PDF statistics:
  162 PDF objects out of 1000 (max. 8388607)
  138 compressed objects within 2 object streams

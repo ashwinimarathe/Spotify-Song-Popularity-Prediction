@@ -23,7 +23,6 @@ library(regclass)
 library(lubridate)
 library(MLmetrics)
 ```
-[\color{blue}\underline{Github link}](https://github.com/ashwinimarathe/Spotify-Song-Popularity-Prediction/tree/master)
 
 
 ## Summary
@@ -249,4 +248,5 @@ The purpose of the project was to infer which features influnece whether a song 
 * Analysis of song lyrics can also be included.
 
 
+[\color{blue}\underline{Github link}](https://github.com/ashwinimarathe/Spotify-Song-Popularity-Prediction/tree/master)
 
