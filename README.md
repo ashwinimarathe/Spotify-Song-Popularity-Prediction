@@ -5,3 +5,6 @@ This project aims to understand the features that *hit* songs have in common. In
 # Data
 In order to do an analysis, I needed music data with music related features, artist popularity, song_genre and, other metadata of the songs. Spotify's music data that it provides via its developer APIs seemed like the right place to start to create this dataset.
 More information can be found [here](https://developer.spotify.com/documentation/web-api/) 
+
+# Visulization app
+I built a RShiny visuzlization dashboard for this project. The dashboard can be viewed [here](https://ashwinimarathe.shinyapps.io/musicvisualization/)
